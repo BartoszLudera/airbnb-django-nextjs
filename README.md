@@ -13,9 +13,9 @@ Postgresql
 Deployment to Digital Ocean
 
 # Features in this project
-Fully responsive design built with Tailwind
-Authentication using Django Allauth (Email log in)
-How to use react-date-range and other packages
-How to upload images using fetch
-Live chat using web sockets
+- Fully responsive design built with Tailwind
+- Authentication using Django Allauth (Email log in)
+- react-date-range and other packages
+- upload images using fetch
+- Live chat using web sockets
 
